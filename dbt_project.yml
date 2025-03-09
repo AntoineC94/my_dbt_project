@@ -59,6 +59,8 @@ models:
         schema: int_sales_database
       google_analytics:
         schema: int_google_analytics
+      local_bike:
+        schema: local_bike
     mart:
       schema: mart
       materialized: table
